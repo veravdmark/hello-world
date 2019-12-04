@@ -21,6 +21,11 @@ p {
     height: 200px;
     text-align: center;
 }
+
+h1 {
+    margin: 0px;
+    line-height: 200px;
+}
  
 body {
     background-color: rgb(149, 204, 206);
