@@ -15,3 +15,15 @@ p {
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
+
+#banner {
+    background-color: saddlebrown;
+}
+ 
+body {
+    background-color: rgb(209, 162, 98);
+}
+ 
+.bodyText {
+    color: #5b120c;
+}
