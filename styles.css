@@ -13,7 +13,7 @@ p {
   display: block;
   width: 400px;
   margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 100px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
 #banner {
@@ -24,7 +24,6 @@ p {
 
 
 body {
-    margin: 0px;
     background-color: rgb(149, 204, 206);
 }
  
