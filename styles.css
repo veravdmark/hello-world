@@ -30,3 +30,17 @@ body {
 .bodyText {
     color: #000000;
 }
+
+li {
+    padding: 10px;
+    display: inline;
+}
+
+#navBar {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: darkgreen;
+}
