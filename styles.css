@@ -17,11 +17,10 @@ p {
 }
 
 #banner {
-    background-color: peachpuff; 
+    background-image: url(images/Groningen.jpg);
     height: 100px;
     text-align: center;
 }
-
 
 body {
     background-color: rgb(149, 204, 206);
