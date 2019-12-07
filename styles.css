@@ -26,6 +26,7 @@ p {
 background: pink;
 padding: 100px;
 margin: 100px;
+opacity: 0.5;
 }
 
 body {
