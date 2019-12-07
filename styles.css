@@ -23,14 +23,14 @@ p {
 }
 
 .box {
-background-color: whitesmoke;
+background-color: orange;
 padding: 100px;
 margin: 100px;
 opacity: 0.75;
 }
 
 body {
-    background-image: url(../images/grunn.jpg);
+    background-image: url(../images/egnbg.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -50,5 +50,5 @@ li {
 
 a {
     text-decoration: none;
-    color: black;
+    color: orange;
 }
