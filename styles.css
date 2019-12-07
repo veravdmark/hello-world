@@ -19,6 +19,7 @@ p {
 #banner {
     background-color: whitesmoke; 
     height: 100px;
+    width: 20px;
     text-align: center;
 }
 
