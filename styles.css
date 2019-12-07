@@ -30,6 +30,8 @@ margin: 100px;
 
 body {
     background-image: url(../images/stadgroningen.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
 }
  
 .bodyText {
