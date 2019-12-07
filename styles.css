@@ -33,6 +33,7 @@ body {
     background-image: url(../images/egnbg.jpg);
     background-repeat: no-repeat;
     background-size: 90% 100%;
+    text-align: center;
 }
  
 .bodyText {
