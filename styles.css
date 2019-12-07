@@ -13,7 +13,7 @@ p {
   display: block;
   width: 400px;
   margin: 30px auto;
-  font: 10px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 100px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
 #banner {
@@ -43,6 +43,7 @@ body {
 li {
     padding: 10px;
     display: inline;
+    font: 100px "Times", "Times New Roman", serif;
 }
 
 #navBar {
