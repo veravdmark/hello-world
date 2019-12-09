@@ -37,6 +37,7 @@ body {
  
 .bodyText {
     color: #000000;
+    font: 50px "Times", "Times New Roman", serif;
 }
 
 li {
