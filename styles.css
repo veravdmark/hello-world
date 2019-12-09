@@ -18,9 +18,9 @@ p {
 
 #banner {
     background-color: orange; 
-    height: 300px;
+    height: 200px;
     width: 300px;
-    text-align: center;
+    text-align: left;
 }
 
 
