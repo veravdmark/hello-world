@@ -17,14 +17,14 @@ p {
 }
 
 #banner {
-    background-color: lightslategray; 
+    background-color: gray; 
     height: 70px;
     text-align: center;
 }
 
 
 .box {
-background-color: orange;
+background-color: white;
 padding: 100px;
 margin: 100px;
 opacity: 0.75;
