@@ -13,7 +13,7 @@ p {
   display: block;
   width: 400px;
   margin: 30px auto;
-  font: 100px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: font: 50px "Times", "Times New Roman", serif;
 }
 
 #banner {
