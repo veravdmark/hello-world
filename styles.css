@@ -13,7 +13,7 @@ p {
   display: block;
   width: 400px;
   margin: 30px auto;
-  font: 50px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 100px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
 #banner {
@@ -21,6 +21,7 @@ p {
     height: 130px;
     text-align: center;
 }
+
 
 .box {
 background-color: orange;
@@ -43,7 +44,7 @@ body {
 li {
     padding: 10px;
     display: inline;
-    font: 100px "Times", "Times New Roman", serif;
+    font: 50px "Times", "Times New Roman", serif;
 }
 
 #navBar {
