@@ -17,7 +17,7 @@ p {
 }
 
 #banner {
-    background-color: red; 
+    background-color: lightslategray; 
     height: 70px;
     text-align: center;
 }
@@ -31,10 +31,7 @@ opacity: 0.75;
 }
 
 body {
-    background-image: url(../images/egnbg2.jpg);
-    background-repeat: no-repeat;
-    background-size: 60% 80%;
-    background-position: 0 0;
+    background-color: orange
 }
  
 .bodyText {
