@@ -31,6 +31,13 @@ margin: 100px;
 opacity: 0.85;
 }
 
+.test {
+background-color: blueviolet;
+padding: 100px;
+margin: 100px;
+opacity: 0.85;
+}
+
 body {
     background-color: black
 }
@@ -55,7 +62,3 @@ a {
     text-decoration: none;
     color: black;
 
-h1 {
-    color:white;
-}
-}
