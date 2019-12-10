@@ -33,6 +33,7 @@ opacity: 0.85;
 
 .test {
 background-color: white;
+background-position: center right;
 padding: 100px;
 margin: 100px;
 opacity: 0.85;
